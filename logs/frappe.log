@@ -1,0 +1,117 @@
+2022-05-11 10:36:51,252 ERROR frappe New Exception collected with id: 2022-05-11 10:36:51.041197-127.0.0.1-77b
+Site: library.test
+Form Dict: {'doctype': 'Library Transaction', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-28 06:25:47,736 ERROR frappe New Exception collected with id: 2022-05-28 06:25:47.680267-127.0.0.1-2cd
+Site: library.test
+Form Dict: {'usr': 'Administrator', 'pwd': 'CSE2022', 'cmd': 'library_management.api.login'}
+2022-05-28 17:27:13,293 ERROR frappe New Exception collected with id: 2022-05-28 17:27:13.221268-127.0.0.1-fd4
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:28:03,513 ERROR frappe New Exception collected with id: 2022-05-28 17:28:03.453932-127.0.0.1-93a
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:29:07,872 ERROR frappe New Exception collected with id: 2022-05-28 17:29:07.813294-127.0.0.1-50b
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:29:33,791 ERROR frappe New Exception collected with id: 2022-05-28 17:29:33.667381-127.0.0.1-90e
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:31:53,217 ERROR frappe New Exception collected with id: 2022-05-28 17:31:53.157327-127.0.0.1-569
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:33:23,670 ERROR frappe New Exception collected with id: 2022-05-28 17:33:23.612873-127.0.0.1-cd0
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:33:38,371 ERROR frappe New Exception collected with id: 2022-05-28 17:33:38.314799-127.0.0.1-3dd
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:34:29,078 ERROR frappe New Exception collected with id: 2022-05-28 17:34:28.951520-127.0.0.1-1d6
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:40:26,686 ERROR frappe New Exception collected with id: 2022-05-28 17:40:26.617103-127.0.0.1-128
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 17:51:00,255 ERROR frappe New Exception collected with id: 2022-05-28 17:51:00.247278-127.0.0.1-8e8
+Site: library.test
+Form Dict: {'user': 'sameer@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2022-05-28 19:53:49,444 ERROR frappe New Exception collected with id: 2022-05-28 19:53:49.316396-127.0.0.1-8a4
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 19:54:43,906 ERROR frappe New Exception collected with id: 2022-05-28 19:54:43.808904-127.0.0.1-1f6
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 19:55:04,752 ERROR frappe New Exception collected with id: 2022-05-28 19:55:04.693138-127.0.0.1-2ec
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 19:56:02,068 ERROR frappe New Exception collected with id: 2022-05-28 19:56:02.010080-127.0.0.1-156
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 19:58:17,082 ERROR frappe New Exception collected with id: 2022-05-28 19:58:17.024166-127.0.0.1-1ad
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 19:58:47,144 ERROR frappe New Exception collected with id: 2022-05-28 19:58:47.014674-127.0.0.1-7fe
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 20:03:38,697 ERROR frappe New Exception collected with id: 2022-05-28 20:03:38.639431-127.0.0.1-d87
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 20:14:24,307 ERROR frappe New Exception collected with id: 2022-05-28 20:14:24.248026-127.0.0.1-458
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 21:08:04,375 ERROR frappe New Exception collected with id: 2022-05-28 21:08:04.316650-127.0.0.1-087
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 21:08:47,913 ERROR frappe New Exception collected with id: 2022-05-28 21:08:47.854985-127.0.0.1-884
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 21:09:22,125 ERROR frappe New Exception collected with id: 2022-05-28 21:09:22.007372-127.0.0.1-886
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 21:09:56,270 ERROR frappe New Exception collected with id: 2022-05-28 21:09:56.213486-127.0.0.1-a72
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 21:10:57,553 ERROR frappe New Exception collected with id: 2022-05-28 21:10:57.436922-127.0.0.1-c82
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:15:02,644 ERROR frappe New Exception collected with id: 2022-05-28 22:15:02.444353-127.0.0.1-9a8
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:16:05,863 ERROR frappe New Exception collected with id: 2022-05-28 22:16:05.858997-127.0.0.1-0af
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:17:17,968 ERROR frappe New Exception collected with id: 2022-05-28 22:17:17.965356-127.0.0.1-67b
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:22:13,841 ERROR frappe New Exception collected with id: 2022-05-28 22:22:13.837897-127.0.0.1-796
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:33:13,377 ERROR frappe New Exception collected with id: 2022-05-28 22:33:13.260410-127.0.0.1-150
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:37:38,141 ERROR frappe New Exception collected with id: 2022-05-28 22:37:38.085384-127.0.0.1-5b1
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-28 22:37:39,567 ERROR frappe New Exception collected with id: 2022-05-28 22:37:39.564191-127.0.0.1-936
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-29 07:40:44,600 ERROR frappe New Exception collected with id: 2022-05-29 07:40:44.244607-127.0.0.1-f39
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-29 07:43:44,238 ERROR frappe New Exception collected with id: 2022-05-29 07:43:44.113421-127.0.0.1-072
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-29 07:43:56,525 ERROR frappe New Exception collected with id: 2022-05-29 07:43:56.519738-127.0.0.1-3d4
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-29 15:16:34,300 ERROR frappe New Exception collected with id: 2022-05-29 15:16:34.236989-127.0.0.1-4df
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-29 15:18:18,828 ERROR frappe New Exception collected with id: 2022-05-29 15:18:18.695031-127.0.0.1-57c
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-30 14:14:14,486 ERROR frappe New Exception collected with id: 2022-05-30 14:14:14.344547-127.0.0.1-2cc
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}
+2022-05-30 14:14:36,393 ERROR frappe New Exception collected with id: 2022-05-30 14:14:36.391087-127.0.0.1-f3c
+Site: library.test
+Form Dict: {'cmd': 'library_management.api.detail'}

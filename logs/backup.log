@@ -1,0 +1,587 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220510_120001-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-10 12:00:03.898966
+Config  : ./library.test/private/backups/20220510_120001-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220510_120001-library_test-database.sql.gz         246.7KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220513_120021-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-13 12:00:26.969556
+Config  : ./library.test/private/backups/20220513_120021-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220513_120021-library_test-database.sql.gz         273.1KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220514_120021-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-14 12:00:24.806465
+Config  : ./library.test/private/backups/20220514_120021-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220514_120021-library_test-database.sql.gz         273.1KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220515_120020-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-15 12:00:22.440003
+Config  : ./library.test/private/backups/20220515_120020-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220515_120020-library_test-database.sql.gz         273.1KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220517_120026-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-17 12:00:35.389765
+Config  : ./library.test/private/backups/20220517_120026-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220517_120026-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220517_180006-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-17 18:00:07.567082
+Config  : ./library.test/private/backups/20220517_180006-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220517_180006-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220519_120025-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-19 12:00:27.940247
+Config  : ./library.test/private/backups/20220519_120025-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220519_120025-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220520_120023-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-20 12:00:26.189983
+Config  : ./library.test/private/backups/20220520_120023-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220520_120023-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220523_120020-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-23 12:00:25.154405
+Config  : ./library.test/private/backups/20220523_120020-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220523_120020-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220523_180005-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-23 18:00:06.494957
+Config  : ./library.test/private/backups/20220523_180005-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220523_180005-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220525_120018-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-25 12:00:19.739117
+Config  : ./library.test/private/backups/20220525_120018-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220525_120018-library_test-database.sql.gz         276.2KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220528_060002-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-28 06:00:03.365149
+Config  : ./library.test/private/backups/20220528_060002-library_test-site_config_backup.json 94.0B
+Database: ./library.test/private/backups/20220528_060002-library_test-database.sql.gz         277.1KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220528_180002-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-28 18:00:02.678412
+Config  : ./library.test/private/backups/20220528_180002-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220528_180002-library_test-database.sql.gz         284.0KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220529_000032-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-29 00:00:38.756841
+Config  : ./library.test/private/backups/20220529_000032-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220529_000032-library_test-database.sql.gz         308.1KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220530_120002-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-30 12:00:03.355921
+Config  : ./library.test/private/backups/20220530_120002-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220530_120002-library_test-database.sql.gz         315.2KiB
+Backup for Site library.test has been successfully completed
+Backup failed for Site website. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 689, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 538, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 572, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 86, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 120, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/database.py", line 972, in get_tables
+    table_rows = self.sql(
+  File "apps/frappe/frappe/database/database.py", line 145, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 76, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 79, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.8/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.8/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_b03d59da10ef7e85'@'localhost'")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220531_000009-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-05-31 00:00:11.346464
+Config  : ./library.test/private/backups/20220531_000009-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220531_000009-library_test-database.sql.gz         321.8KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220531_000011-website-database.sql.gz
+
+Backup Summary for website at 2022-05-31 00:00:51.154718
+Config  : ./website/private/backups/20220531_000011-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220531_000011-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220601_000045-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-01 00:01:18.284695
+Config  : ./library.test/private/backups/20220601_000045-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220601_000045-library_test-database.sql.gz         321.8KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220531_000011-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220531_000011-website-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220601_000119-website-database.sql.gz
+
+Backup Summary for website at 2022-06-01 00:01:23.300748
+Config  : ./website/private/backups/20220601_000119-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220601_000119-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220601_120034-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-01 12:00:56.400029
+Config  : ./library.test/private/backups/20220601_120034-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220601_120034-library_test-database.sql.gz         323.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220601_000119-website-database.sql.gz is recent
+File ./website/private/backups/20220601_000119-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220601_120057-website-database.sql.gz
+
+Backup Summary for website at 2022-06-01 12:01:01.896292
+Config  : ./website/private/backups/20220601_120057-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220601_120057-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220602_000157-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-02 00:02:26.814452
+Config  : ./library.test/private/backups/20220602_000157-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220602_000157-library_test-database.sql.gz         323.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220601_000119-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220601_120057-website-database.sql.gz is recent
+File ./website/private/backups/20220601_120057-website-site_config_backup.json is recent
+File ./website/private/backups/20220601_000119-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220602_000227-website-database.sql.gz
+
+Backup Summary for website at 2022-06-02 00:02:32.512481
+Config  : ./website/private/backups/20220602_000227-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220602_000227-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220602_060049-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-02 06:01:30.896736
+Config  : ./library.test/private/backups/20220602_060049-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220602_060049-library_test-database.sql.gz         323.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220602_000227-website-site_config_backup.json is recent
+File ./website/private/backups/20220601_120057-website-database.sql.gz is recent
+File ./website/private/backups/20220602_000227-website-database.sql.gz is recent
+File ./website/private/backups/20220601_120057-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220602_060132-website-database.sql.gz
+
+Backup Summary for website at 2022-06-02 06:01:47.123781
+Config  : ./website/private/backups/20220602_060132-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220602_060132-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220603_071010-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-03 07:10:33.500572
+Config  : ./library.test/private/backups/20220603_071010-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220603_071010-library_test-database.sql.gz         793.0B
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220602_060132-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220602_000227-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220601_120057-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220602_000227-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220601_120057-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220602_060132-website-site_config_backup.json is older than 24 hours
+Backup failed for Site website. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 613, in connect
+    sock = socket.create_connection(
+  File "/usr/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/usr/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 689, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 538, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 572, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 86, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 120, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/database.py", line 972, in get_tables
+    table_rows = self.sql(
+  File "apps/frappe/frappe/database/database.py", line 145, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 76, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 79, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.8/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220605_060043-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-05 06:01:22.172748
+Config  : ./library.test/private/backups/20220605_060043-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220605_060043-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220605_060123-website-database.sql.gz
+
+Backup Summary for website at 2022-06-05 06:01:40.825638
+Config  : ./website/private/backups/20220605_060123-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220605_060123-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220606_180028-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-06 18:00:41.594654
+Config  : ./library.test/private/backups/20220606_180028-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220606_180028-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220605_060123-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220605_060123-website-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220606_180045-website-database.sql.gz
+
+Backup Summary for website at 2022-06-06 18:00:58.079305
+Config  : ./website/private/backups/20220606_180045-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220606_180045-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220607_120058-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-07 12:01:22.397328
+Config  : ./library.test/private/backups/20220607_120058-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220607_120058-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220606_180045-website-site_config_backup.json is recent
+File ./website/private/backups/20220606_180045-website-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220607_120124-website-database.sql.gz
+
+Backup Summary for website at 2022-06-07 12:01:39.417474
+Config  : ./website/private/backups/20220607_120124-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220607_120124-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220607_180017-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-07 18:00:18.008343
+Config  : ./library.test/private/backups/20220607_180017-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220607_180017-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220606_180045-website-site_config_backup.json is recent
+File ./website/private/backups/20220607_120124-website-site_config_backup.json is recent
+File ./website/private/backups/20220606_180045-website-database.sql.gz is recent
+File ./website/private/backups/20220607_120124-website-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220607_180018-website-database.sql.gz
+
+Backup Summary for website at 2022-06-07 18:00:18.500990
+Config  : ./website/private/backups/20220607_180018-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220607_180018-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220611_000106-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-11 00:01:30.878241
+Config  : ./library.test/private/backups/20220611_000106-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220611_000106-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220606_180045-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220607_180018-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220607_120124-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220606_180045-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220607_120124-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220607_180018-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220611_000133-website-database.sql.gz
+
+Backup Summary for website at 2022-06-11 00:01:43.310940
+Config  : ./website/private/backups/20220611_000133-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220611_000133-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220611_180051-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-11 18:01:12.396676
+Config  : ./library.test/private/backups/20220611_180051-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220611_180051-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220611_000133-website-database.sql.gz is recent
+File ./website/private/backups/20220611_000133-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220611_180113-website-database.sql.gz
+
+Backup Summary for website at 2022-06-11 18:01:23.659466
+Config  : ./website/private/backups/20220611_180113-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220611_180113-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220613_120058-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-13 12:01:25.167905
+Config  : ./library.test/private/backups/20220613_120058-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220613_120058-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220611_000133-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220611_180113-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220611_180113-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220611_000133-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220613_120127-website-database.sql.gz
+
+Backup Summary for website at 2022-06-13 12:01:37.870850
+Config  : ./website/private/backups/20220613_120127-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220613_120127-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220614_180057-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-14 18:01:18.893329
+Config  : ./library.test/private/backups/20220614_180057-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220614_180057-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220613_120127-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220613_120127-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220614_180120-website-database.sql.gz
+
+Backup Summary for website at 2022-06-14 18:01:32.981261
+Config  : ./website/private/backups/20220614_180120-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220614_180120-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220615_000028-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-15 00:00:29.899128
+Config  : ./library.test/private/backups/20220615_000028-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220615_000028-library_test-database.sql.gz         326.3KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220614_180120-website-database.sql.gz is recent
+File ./website/private/backups/20220614_180120-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220615_000030-website-database.sql.gz
+
+Backup Summary for website at 2022-06-15 00:00:30.755273
+Config  : ./website/private/backups/20220615_000030-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220615_000030-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220615_060208-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-15 06:03:42.357097
+Config  : ./library.test/private/backups/20220615_060208-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220615_060208-library_test-database.sql.gz         323.4KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220614_180120-website-database.sql.gz is recent
+File ./website/private/backups/20220615_000030-website-site_config_backup.json is recent
+File ./website/private/backups/20220615_000030-website-database.sql.gz is recent
+File ./website/private/backups/20220614_180120-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220615_060343-website-database.sql.gz
+
+Backup Summary for website at 2022-06-15 06:05:31.111291
+Config  : ./website/private/backups/20220615_060343-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220615_060343-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220615_180055-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-15 18:01:16.283655
+Config  : ./library.test/private/backups/20220615_180055-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220615_180055-library_test-database.sql.gz         323.5KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220615_060343-website-site_config_backup.json is recent
+File ./website/private/backups/20220615_060343-website-database.sql.gz is recent
+File ./website/private/backups/20220614_180120-website-database.sql.gz is recent
+File ./website/private/backups/20220615_000030-website-site_config_backup.json is recent
+File ./website/private/backups/20220615_000030-website-database.sql.gz is recent
+File ./website/private/backups/20220614_180120-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220615_180117-website-database.sql.gz
+
+Backup Summary for website at 2022-06-15 18:01:36.867553
+Config  : ./website/private/backups/20220615_180117-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220615_180117-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220617_000108-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-17 00:01:11.141325
+Config  : ./library.test/private/backups/20220617_000108-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220617_000108-library_test-database.sql.gz         327.9KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220615_060343-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220615_060343-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220614_180120-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220615_000030-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220615_000030-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220615_180117-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220615_180117-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220614_180120-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220617_000111-website-database.sql.gz
+
+Backup Summary for website at 2022-06-17 00:01:21.087107
+Config  : ./website/private/backups/20220617_000111-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220617_000111-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220617_120100-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-17 12:01:17.593728
+Config  : ./library.test/private/backups/20220617_120100-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220617_120100-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220617_000111-website-database.sql.gz is recent
+File ./website/private/backups/20220617_000111-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220617_120119-website-database.sql.gz
+
+Backup Summary for website at 2022-06-17 12:01:30.623990
+Config  : ./website/private/backups/20220617_120119-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220617_120119-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220618_000055-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-18 00:01:15.509861
+Config  : ./library.test/private/backups/20220618_000055-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220618_000055-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220617_000111-website-database.sql.gz is recent
+File ./website/private/backups/20220617_000111-website-site_config_backup.json is recent
+File ./website/private/backups/20220617_120119-website-database.sql.gz is recent
+File ./website/private/backups/20220617_120119-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220618_000117-website-database.sql.gz
+
+Backup Summary for website at 2022-06-18 00:01:28.611209
+Config  : ./website/private/backups/20220618_000117-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220618_000117-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220618_180048-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-18 18:00:49.759422
+Config  : ./library.test/private/backups/20220618_180048-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220618_180048-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220617_000111-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220618_000117-website-site_config_backup.json is recent
+File ./website/private/backups/20220617_000111-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220618_000117-website-database.sql.gz is recent
+File ./website/private/backups/20220617_120119-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220617_120119-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220618_180050-website-database.sql.gz
+
+Backup Summary for website at 2022-06-18 18:00:50.481291
+Config  : ./website/private/backups/20220618_180050-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220618_180050-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220619_180032-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-19 18:00:33.329894
+Config  : ./library.test/private/backups/20220619_180032-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220619_180032-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220618_000117-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220618_180050-website-database.sql.gz is recent
+File ./website/private/backups/20220618_000117-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220618_180050-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220619_180033-website-database.sql.gz
+
+Backup Summary for website at 2022-06-19 18:00:34.010780
+Config  : ./website/private/backups/20220619_180033-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220619_180033-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220620_120050-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-20 12:01:11.110167
+Config  : ./library.test/private/backups/20220620_120050-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220620_120050-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220619_180033-website-site_config_backup.json is recent
+File ./website/private/backups/20220618_180050-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220619_180033-website-database.sql.gz is recent
+File ./website/private/backups/20220618_180050-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220620_120112-website-database.sql.gz
+
+Backup Summary for website at 2022-06-20 12:01:24.158554
+Config  : ./website/private/backups/20220620_120112-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220620_120112-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220621_180054-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-21 18:01:18.187427
+Config  : ./library.test/private/backups/20220621_180054-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220621_180054-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220620_120112-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220619_180033-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220620_120112-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220619_180033-website-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220621_180119-website-database.sql.gz
+
+Backup Summary for website at 2022-06-21 18:01:31.128659
+Config  : ./website/private/backups/20220621_180119-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220621_180119-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220622_000001-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-22 00:00:02.515311
+Config  : ./library.test/private/backups/20220622_000001-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220622_000001-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220621_180119-website-database.sql.gz is recent
+File ./website/private/backups/20220621_180119-website-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220622_000002-website-database.sql.gz
+
+Backup Summary for website at 2022-06-22 00:00:03.029188
+Config  : ./website/private/backups/20220622_000002-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220622_000002-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220623_060100-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-23 06:01:18.355676
+Config  : ./library.test/private/backups/20220623_060100-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220623_060100-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220622_000002-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220621_180119-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220622_000002-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220621_180119-website-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220623_060120-website-database.sql.gz
+
+Backup Summary for website at 2022-06-23 06:01:31.209999
+Config  : ./website/private/backups/20220623_060120-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220623_060120-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220624_000112-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-24 00:01:37.764561
+Config  : ./library.test/private/backups/20220624_000112-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220624_000112-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220623_060120-website-site_config_backup.json is recent
+File ./website/private/backups/20220623_060120-website-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220624_000139-website-database.sql.gz
+
+Backup Summary for website at 2022-06-24 00:01:48.895215
+Config  : ./website/private/backups/20220624_000139-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220624_000139-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _09c38700a8f7d8c2 -p********** _09c38700a8f7d8c2 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./library.test/private/backups/20220625_120045-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-06-25 12:01:04.982639
+Config  : ./library.test/private/backups/20220625_120045-library_test-site_config_backup.json 161.0B
+Database: ./library.test/private/backups/20220625_120045-library_test-database.sql.gz         328.0KiB
+Backup for Site library.test has been successfully completed
+File ./website/private/backups/20220624_000139-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220623_060120-website-site_config_backup.json is older than 24 hours
+File ./website/private/backups/20220624_000139-website-database.sql.gz is older than 24 hours
+File ./website/private/backups/20220623_060120-website-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _b03d59da10ef7e85 -p********** _b03d59da10ef7e85 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./website/private/backups/20220625_120106-website-database.sql.gz
+
+Backup Summary for website at 2022-06-25 12:01:16.775609
+Config  : ./website/private/backups/20220625_120106-website-site_config_backup.json 94.0B
+Database: ./website/private/backups/20220625_120106-website-database.sql.gz         228.9KiB
+Backup for Site website has been successfully completed
